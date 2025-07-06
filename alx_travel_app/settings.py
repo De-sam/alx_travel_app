@@ -100,6 +100,7 @@ DATABASES = {
 
 ROOT_URLCONF = 'alx_travel_app.urls'
 
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
